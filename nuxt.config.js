@@ -7,11 +7,11 @@ export default {
     timing: false
   }, */
   router: {
-    base: '/movimento/'
+    base: '/movimento-live/'
   },
 
   head: {
-    title: 'movimento',
+    title: 'movimento-live',
     htmlAttrs: {
       lang: 'en'
     },
