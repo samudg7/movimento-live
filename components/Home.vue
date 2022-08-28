@@ -21,10 +21,10 @@
           <b-img blank blank-color="#cba" width="64" alt="placeholder"></b-img>
         </template>
 
-        <h5 class="mt-0 mb-1">Citazione</h5>
+        <h5 class="mt-0 mb-1"> “Non vorrei che restasse solo un museo ma che da quelle sale nelle quali si respira danza continuasse
+         a venire la musica che ascolto da tutta la vita, come era desiderio sia di mia mamma che di Silvia”.</h5>
         <p class="mb-0">
-         “Non vorrei che restasse solo un museo ma che da quelle sale nelle quali si respira danza continuasse
-         a venire la musica che ascolto da tutta la vita, come era desiderio sia di mia mamma che di Silvia”.
+
         </p>
       </b-media>
 
