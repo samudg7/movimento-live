@@ -35,9 +35,9 @@
 
         <h5 class="mt-0 mb-1">La storia continua</h5>
         <p class="mb-0">
-         Con queste parole di Michele, vi annunciamo che dal 23 settembre dalle ore 16:00 alle 18:00 sono aperte
-         le iscrizioni ai corsi per l’anno accademico 2021/2022, che proseguirà con le insegnanti Noemi De Grandi,
-         diplomata alla Scala di Milano, e Cristina Carnevale, entrambe già allieve delle maestre Grazie e Silvia,
+         Con queste parole di Michele, vi annunciamo che dal 1 settembre dalle ore 16:00 alle 18:00 sono aperte
+         le iscrizioni ai corsi per l’anno accademico 2022/2023, che proseguirà con l'insegnante Noemi De Grandi,
+         diplomata all'Accdemia Teatro alla Scala di Milano, già allieva delle maestre Grazie e Silvia,
          e con la supervisione della ex prima ballerina della Scala - nonché grande amica e collega di Silvia - Gilda Gelati.
         </p>
       </b-media>
@@ -48,7 +48,7 @@
     <div class="card-deck">
       <div class="card">
         <img
-          src="@/static\images\mountain1.jpg"
+          src="@/static\images\introduzione.jpg"
           class="card-img-top"
           alt="..."
         />
@@ -58,8 +58,7 @@
             La scuola nonostante la pandemia con la collaborazione delle allieve e dei loro genitori
             ha proseguito le lezioni on -Line! La presenza nelle lezioni è fondamentale come pure la
              correzione manuale, ma le allieve hanno seguito e seguono tutt’ora con entusiasmo le lezioni
-             con la loro insegnante e le assistenti Noemi(Diplomata al corso insegnanti al Teatro alla Scala di Milano)
-             e Cristina (ex-solista della scuola)!
+             con la loro insegnante Noemi De Grandi (Diplomata al corso insegnanti al Teatro alla Scala di Milano)!
           </p>
           <nuxt-link to="/news/1" class="btn btn-outline-info"
             >News 1</nuxt-link
@@ -71,15 +70,15 @@
       </div>
       <div class="card">
         <img
-          src="@/static\images\mountain1.jpg"
+          src="@/static\images\iscrizioni.jpg"
           class="card-img-top"
           alt="..."
         />
         <div class="card-body">
-          <h5 class="card-title">BUONA ESTATE !!!</h5>
+          <h5 class="card-title">ISCRIZIONI APERTE !!!</h5>
           <p class="card-text">
-            LE ISCRIZIONI PER L’ANNO ACCADEMICO 2021/22 riapriranno dal 20 al 30 settembre
-
+           L’ANNO ACCADEMICO 2022/23 inizierà dal 1 settembre.
+            Vi aspettiamo!
 Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
           </p>
           <nuxt-link to="/news/2" class="btn btn-outline-info"
@@ -92,7 +91,7 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
       </div>
       <div class="card">
         <img
-          src="@/static\images\mountain1.jpg"
+          src="@/static\images\news3.jpg"
           class="card-img-top"
           alt="..."
         />

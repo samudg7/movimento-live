@@ -1,7 +1,7 @@
 <template>
   <div>
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\news1.jpg"
       width="100%"
       height="300"
       alt="..."
@@ -13,11 +13,11 @@
          ha proseguito le lezioni on -Line! La presenza nelle lezioni è fondamentale come pure la
          correzione manuale, ma le allieve hanno seguito e seguono tutt’ora con entusiasmo le lezioni
          con la loro insegnante e le assistenti Noemi(Diplomata al corso insegnanti al Teatro alla Scala di Milano)
-         e Cristina (ex-solista della scuola)! La professionalità nell’insegnamento e la passione che la scuola di
+         ! La professionalità nell’insegnamento e la passione che la scuola di
          danza “Grazia Paulon” trasmette alle proprie allieve contraddistingue la storica scuola che si avvale della
          collaborazione di Gilda Gelati prima ballerina del Teatro alla Scala pronta per tornare e impartire lezioni
-         alle allieve per migliorare la tecnica,l’espressivitá e dare validi suggerimenti!...le lezioni proseguiranno
-          anche nel mese di maggio Brave ragazze!!!
+         alle allieve per migliorare la tecnica,l’espressivitá e dare validi suggerimenti!...le lezioni inizieranno
+          dal 1 settembre. Vi aspettiamo! Brave ragazze!!!
       </p>
 
 

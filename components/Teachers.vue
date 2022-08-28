@@ -5,7 +5,7 @@
     <h6 class="mt-0 mb-1">60 ANNI DI CARRIERA</h6>
 
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\grazia.jpg"
       width="100%"
       height="300"
       alt="..."
@@ -136,7 +136,7 @@
     <h6 class="mt-0 mb-1">30 ANNI DI CARRIERA</h6>
 
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\silvia.jpg"
       width="100%"
       height="300"
       alt="..."
@@ -332,14 +332,51 @@
         <h6 class="mt-0 mb-1">Media object</h6>
 
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\teachersnoemi.jpg"
       width="100%"
       height="300"
       alt="..."
     />
 
      <p>
-      To do: percorso Noemi
+      Dai 4 anni ai 5 anni ginnastica ritmica al Patronato Leone XXIII con l’insegnante Marta Magrin.
+All’età di 6 anni inizia lo studio di danza classica e moderna presso la scuola della direttrice Prof. Grazia Paulon e Prof. Silvia Zaccaria.
+All’età di 14 anni Audizione con Prof. Olga Smirnova e si trasferisce a Milano presso il Centro Studi Coreografico Teatro Carcano (Direttori Aldo Masella e Renata Bestetti) segue i corsi di danza classica e Graham con le insegnanti Elena Cipollini per la tecnica classica accademica ed Elena Albano per la tecnica Graham, ammissione al 6° corso
+Nel 2014 torna a Vicenza e riprende gli studi della danza classica, si iscrive alla Master Ballet School, Direttore Artistico e insegnante Jacopo Maggi.
+Nel 2016 inizia il corso di studi al Bolshoi Ballet Accademy, segue i corsi di danza classica, contemporanea, danza di carattere e danza storica.
+A settembre del 2017 Audizione ed ammissione al Biennio di formazione per insegnanti di danza presso l’accademia Teatro alla Scala di Milano.
+L’11 giugno diploma presso l’accademia Teatro alla Scala di Milano per il Biennio di formazione per Insegnanti di danza.
+Il 17 Maggio 2020 Idoneità all’insegnamento del programma e della metodologia del 4°-5° anno della Scuola di Ballo dell’Accademia del Teatro alla Scala di Milano.
+
+SEGUE STAGE E AUDIZIONI DURANTE L’ANNO
+Febbraio 2011 Firenze: stage danza in Fiera
+Febbraio 2011 Alessandria: stage con Docente Marit Back
+Luglio e Agosto 2011 Rapallo: Festival con docente Ekaterina Desnitiskaja
+Luglio 2012 Milano: stage Accademia Teatro alla Scala di Milano: Docenti Paolo Podini, Emanuela Tagliavia
+Agosto 2012 Rapallo: Festival Docenti Marina Vasilieva ed Ekaterina Desnitiskaja
+Dal 30 al 1 Aprile 2013 Ravenna: stage Centro Studi la Torre Ravenna con Prof.Loreta Alexandrescu
+5 Maggio 2013 Verona: stage Balletto di Verona Audizione e Ammissione alla scuola al 5°corso professionale Docenti Eriberto Verardi e Anna Guestman
+19 Maggio 2013 Balletto Cosi-Stefanescu: Audizione e Ammissione al 5° Corso Professionale con Direttrice Liliana Cosi.
+25 Maggio 2013:  A.U.B Accademia Ucraina Milano Audizione e Ammissione 5° Corso professionale Docente Violeta Kotyrlo Direttore e Docente Egor Scepaciov
+Dal 17 al 22 giugno 2013 Centro Studi Coreografici Teatro Carcano Milano: stage e audizione con ammissione allo studio professionale 5° Corso con docente Olga Smirnova
+Dal 1/7 al 6/7 2013 Stage: al Balletto di Verona Insegnanti Eriberto Verardi e Anna Guestman
+Dal 15 al 29 Luglio 2013 Stage: presso Accademie Princesse Grace di MonteCarlo , Direzione Luca Masala
+Dal 30 Giugno al 6 Luglio 2014 stage Cannes: Ecole Superiore de danse Direzione artistica Paola Cantalupo
+Dal 10 al 23 Agosto 2014: Ibistage Barcellona Direzione Elias Garcia e Xiomara Reyes
+Da Ottobre 2014 una volta al mese stage con insegnante ospite danza classica e repertorio Tomoka Chikange
+Gennaio 2015: stage a Torino con Direttrice Oxana Kichenko
+Febbraio 2015 Vicenza: stage con Matej Selan Insegnante del Conservatorio di Ljubiana
+22 Febbraio 2015: Audizione a Ravenna con Ammissione al Bolshoi Ballet Accademy Summer Intensive anno 2015
+Aprile 2015 a Torino con Direttrice Oxana Kichenko
+15 Gennaio 2017 a Firenze con il Direttore Davis Robertson d Ammissione per l’anno 2017-2018 alla Steps Conservatory Program And International Indipendent Study Program (IISP),NYC (USA)
+Settembre 2017: Audizione ed Ammissione all’Accademia Teatro alla Scala di Milano per il Biennio di Formazione per Insegnanti di Danza classico accademica
+2017-2019: Biennio di Formazione presso Accademia Teatro alla Scala
+2019-2020: Idoneità all’Insegnamento del Programma e della Metodologia del 4 e 5 anno della Scuola di Ballo dell’Accademia Teatro alla Scala di Milano
+Maggio 202: Certificazione PBT(PROGRESSING BALLET TECHNIQUE )
+Settembre-ottobre 2021: Certificazione Pilates 1-2 Livello
+DAL 2021-22: Direttrice ed insegnante della Scuola Grazia Paulon
+15-21 Agosto 2022: Stage Prague Ballet Intensive
+
     </p>
 
 

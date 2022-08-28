@@ -4,7 +4,7 @@
       <h4>SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
       <b-card-group deck>
         <b-card
-          img-src="@/static\images\mountain1.jpg"
+          img-src="@/static\images\articologiornale1.jpg"
           img-alt="Card image"
           img-top
         >
@@ -12,14 +12,14 @@
             La scuola di danza “Grazia Paulon” si trova nel centro storico di
             Vicenza vicino alla celebre Piazza dei Signori. La sua finalità,
             oltre al rigore nella formazione educativa delle allieve è quella di
-            preparare la loro muscolatura a sostenere l’impegno della danza;le
+            preparare la loro muscolatura a sostenere l’impegno della danza; le
             giovani danzatrici sono stimolate anche a sviluppare il proprio
             senso artistico per la futura carriera professionale o amatoriale.
           </b-card-text>
         </b-card>
 
         <b-card
-          img-src="@/static\images\mountain1.jpg"
+          img-src="@/static\images\graziaesilvia.jpg"
           img-alt="Card image"
           img-bottom
         >

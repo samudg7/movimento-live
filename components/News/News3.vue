@@ -1,7 +1,7 @@
 <template>
   <div>
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\news3interno.jpg"
       width="100%"
       height="300"
       alt="..."
