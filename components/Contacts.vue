@@ -3,7 +3,6 @@
     <!-- maps  -->
     <div>
       <center>
-        <h1>Vienici a trovare</h1>
 
         <div id="testo" style="padding:20px">
           <!-- Google Map Copied Code -->

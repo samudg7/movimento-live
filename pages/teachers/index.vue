@@ -1,7 +1,7 @@
 <template>
   <div>
     <Nav />
-    <h1>Hello Nuxt teachers</h1>
+    <h1>Insegnanti</h1>
     <Teachers />
     <Footer />
   </div>
