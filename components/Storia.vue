@@ -4,7 +4,7 @@
       <h4>SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
       <b-card-group deck>
         <b-card
-          img-src="@/static\images\articologiornale1.jpg"
+          img-src="@/static\images\silviaeGrazia.jpg"
           img-alt="Card image"
           img-top
         >
@@ -39,14 +39,14 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\metodoVaganova.jpg"
             class="card-img-top"
             alt="..."
           />
           <div class="card-body">
             <h5 class="card-title">Metodo Vaganova</h5>
             <p class="card-text">
-              L’insegnamento di Grazia Paulon e Silvia Zaccaria si basa sul
+              L’insegnamento di Grazia Paulon, Silvia Zaccaria e Noemi De Grandi si basa sul
               “metodo Vaganova”, tecnica russa, adottata dall’Opera di Roma,
               dalla Scuola di ballo del Teatro alla Scala e dall’Accademia
               Nazionale di danza. Molto importante è lo studio della
@@ -81,7 +81,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\sviluppoPosturale.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -99,18 +99,15 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\cosmina.jpg"
             class="card-img-top"
             alt="..."
           />
           <div class="card-body">
             <h5 class="card-title">Lezioni</h5>
             <p class="card-text">
-              Grazia Paulon e Silvia Zaccaria sono molto esigenti durante le
-              loro lezioni, come la disciplina della danza richiede. Il loro
-              rigoroso metodo viene sempre riconosciuto e apprezzato in tutti i
-              festivals, concorsi e spettacoli ai quali la scuola partecipa
-              durante l’anno.
+              Noemi De Grandi è molto esigente durante la
+              sua lezione, come la disciplina della danza richiede.
             </p>
           </div>
         </div>
@@ -118,7 +115,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\gigli.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -137,7 +134,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\conGilda.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -153,7 +150,7 @@
           </div>
         </div>
       </div>
-      <div class="col mb-4">
+    <!--   <div class="col mb-4">
         <div class="card">
           <img
             src="@/static\images\mountain1.jpg"
@@ -170,8 +167,8 @@
             </p>
           </div>
         </div>
-      </div>
-      <div class="col mb-4">
+      </div> -->
+    <!--   <div class="col mb-4">
         <div class="card">
           <img
             src="@/static\images\mountain1.jpg"
@@ -187,12 +184,12 @@
             </p>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
     <!-- fine grid card -->
 
     <!-- quote -->
-    <div class="card">
+    <!-- <div class="card">
       <div class="card-header">Quote</div>
       <div class="card-body">
         <blockquote class="blockquote mb-0">
@@ -202,7 +199,7 @@
           </footer>
         </blockquote>
       </div>
-    </div>
+    </div> -->
     <!-- fine quote -->
   </div>
 </template>

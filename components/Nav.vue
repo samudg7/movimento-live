@@ -4,7 +4,7 @@
       <li class="navbar-brand">
         <nuxt-link to="/home" class="nav-link active" >
          <img
-          src="@/static\images\introduzione.jpg"
+          src="@/static\images\logo.jpg"
           alt="Home"
           style="height:50px;width:50px"
         />
@@ -31,7 +31,7 @@
           <nuxt-link to="/storia" class="nav-link">La storia</nuxt-link>
         </li>
         <li class="nav-item">
-          <nuxt-link to="/classes" class="nav-link">Classi</nuxt-link>
+          <nuxt-link to="/classes" class="nav-link">Corsi di danza</nuxt-link>
         </li>
         <li class="nav-item">
           <nuxt-link to="/teachers" class="nav-link">Insegnanti</nuxt-link>

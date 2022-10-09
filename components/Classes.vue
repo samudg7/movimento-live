@@ -1,7 +1,7 @@
 <template>
   <div>
    <!-- barre -->
-    <div v-for="bar in bars" :key="bar.id" class="row mb-1">
+   <!--  <div v-for="bar in bars" :key="bar.id" class="row mb-1">
       <div class="col-sm-2">
         <h6>{{ bar.title }}:</h6>
       </div>
@@ -12,8 +12,10 @@
           :variant="bar.variant"
         ></b-progress>
       </div>
-    </div>
+    </div> -->
     <!-- barre -->
+
+<br>
 
     <!-- media, descrizione corsi -->
     <div>
@@ -22,7 +24,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#f5f5f6"
+              blank-color="#ffe6e6"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -38,7 +40,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#f9c20a"
+              blank-color="#ffffff"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -55,7 +57,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#28a745"
+              blank-color="black"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -73,7 +75,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#dc3444"
+              blank-color="#b3f0ff"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -90,7 +92,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#17a2b8"
+              blank-color="#990033"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -106,7 +108,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#007bff"
+              blank-color="#003380"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -123,7 +125,7 @@
           <template #aside>
             <b-img
               v-bind="mainProps"
-              blank-color="#343a40"
+              blank-color="#990000"
               width="64"
               alt="placeholder"
             ></b-img>
@@ -155,6 +157,60 @@
             coscienza del proprio corpo nello spazio circostante.
           </p>
         </b-media>
+
+
+        <!-- Corso danza adulti -->
+        <b-media tag="li" class="my-4">
+          <template #aside>
+            <b-img
+              v-bind="mainProps"
+              blank-color="#e6b3cc"
+              width="64"
+              alt="placeholder"
+            ></b-img>
+          </template>
+
+          <h5 class="mt-0 mb-1">Corso Danza Adulti</h5>
+          <p class="mb-0">
+            Aiuta a tonificare il corpo e riacquistare la mobilità e la flessibilità dei muscoli.
+          </p>
+        </b-media>
+
+        <!-- PBT -->
+         <b-media tag="li" class="my-4">
+          <template #aside>
+            <b-img
+              v-bind="mainProps"
+              blank-color="#e6b3cc"
+              width="64"
+              alt="placeholder"
+            ></b-img>
+          </template>
+
+          <h5 class="mt-0 mb-1">PBT</h5>
+          <p class="mb-0">
+            Tecnica per migliorare la flessibilità, la stabilità, l’allineamento della postura della ballerina e aiuta ad allenare la memoria muscolare.
+          </p>
+        </b-media>
+
+        <!-- Pilates -->
+         <b-media tag="li" class="my-4">
+          <template #aside>
+            <b-img
+              v-bind="mainProps"
+              blank-color="#e6b3cc"
+              width="64"
+              alt="placeholder"
+            ></b-img>
+          </template>
+
+          <h5 class="mt-0 mb-1">Pilates</h5>
+          <p class="mb-0">
+            E' un sistema di allenamento che mira a rafforzare il corpo, a correggere la postura e a migliorare la fluidità
+            e la precisione dei movimenti.
+          </p>
+        </b-media>
+
       </ul>
     </div>
     <!-- fine media, descrizione corsi -->
@@ -168,12 +224,12 @@
         all’Accademia Naz. di danza ecc…
       </li>
       <li class="list-group-item">Attestato di studio</li>
-      <li class="list-group-item">
-        Medaglia d’oro alle allieve che frequentano gli otto anni presso la
-        scuola
-      </li>
     </ul>
     <!-- fine list group -->
+
+<br>
+<br>
+<br>
 
   </div>
 </template>

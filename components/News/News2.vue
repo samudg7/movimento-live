@@ -1,17 +1,34 @@
 <template>
   <div>
     <img
-      src="@/static\images\mountain1.jpg"
+      src="@/static\images\iscrizioni.jpg"
       width="100%"
-      height="300"
+      height="400"
       alt="..."
     />
+
+    <br />
+      <br />
+      <br />
+
     <div>
-      <h5 class="mt-0">ISCRIZIONI APERTE !!!</h5>
+     <!--  <h5 class="mt-0">ISCRIZIONI APERTE !!!</h5> -->
       <p>
-        L’ANNO ACCADEMICO 2022/23 inizierà dal 1 settembre.
-            Vi aspettiamo!
-Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
+       Sono aperte le iscrizioni per l’a.a. 2022-2023!!
+      </p>
+      <p>
+Dal 1° di settembre 2022-2023 le iscrizioni sono aperte con lezioni di prova gratuita, previo appuntamento anche per i nuovi corsi di danza:
+<ul>
+<li>propedeutica sperimentale,</li>
+<li>corso danza adulti,</li>
+<li>pilates,</li>
+<li>PBT.</li>
+</ul>
+      </p>
+      <p>
+Per appuntamento e conferma della lezione di prova contattare al cell: 3455712129 oppure via email: info@scuoladanzagraziapaulon.it
+<p>
+Vi aspettiamo!!!
       </p>
 
       <br />

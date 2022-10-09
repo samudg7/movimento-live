@@ -9,21 +9,49 @@
       <div class="carousel-inner">
         <div class="carousel-item active" data-interval="4000">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\tutteNoi.jpg"
             class="d-block w-100"
             alt="..."
           />
         </div>
         <div class="carousel-item" data-interval="2000">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\primaveraVivaldi.jpg"
             class="d-block w-100"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\arabesqueGigli.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="@/static\images\spettacoli3.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="@/static\images\spettacoli4.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="@/static\images\kitry.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+         <div class="carousel-item">
+          <img
+            src="@/static\images\top.jpg"
             class="d-block w-100"
             alt="..."
           />
@@ -50,8 +78,12 @@
     </div>
     <!-- fine carousel -->
 
+
     <!-- inizio lista-->
     <ul class="list-group list-group-flush">
+       <li class="list-group-item">
+        18 settembre 2022 “In ricordo delle Prof.sse Grazia Paulon e Silvia Zaccaria”
+      </li>
       <li class="list-group-item">
         20 maggio 2018 "Festa alla Carriera" al Teatro Comunale di Vicenza
       </li>
@@ -174,6 +206,9 @@
       </li>
       <li class="list-group-item">
         2019 LEZIONI con GILDA GELATI. ( 21/11/19)
+      </li>
+       <li class="list-group-item">
+        2022 LEZIONI con GILDA GELATI. ( 26/05/22)
       </li>
     </ul>
     <!-- inizio lista aggiornamenti-->
