@@ -18,7 +18,7 @@
 <br>
 
     <!-- media, descrizione corsi -->
-    <div>
+    <div id="testo" style="padding-left:8px;padding-right:20px">
       <ul class="list-unstyled">
         <b-media tag="li">
           <template #aside>

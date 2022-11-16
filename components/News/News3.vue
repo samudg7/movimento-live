@@ -11,8 +11,8 @@
       <br />
       <br />
 
-    <div>
-<!--       <h5 class="mt-0">LA PROF. GRAZIA PAULON SE NE VA IN PUNTA DI PIEDI</h5>
+<div id="testo" style="padding:20px">
+  <!--       <h5 class="mt-0">LA PROF. GRAZIA PAULON SE NE VA IN PUNTA DI PIEDI</h5>
  -->      <p>
         Il 18 settembre 2022, noi allieve ed ex allieve della scuola abbiamo voluto rivivere un momento particolare in onore di Grazia Paulon e Silvia Zaccaria.
 </p>

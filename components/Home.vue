@@ -3,6 +3,7 @@
   <div>
     <br />
     <br />
+    <div id="testo" style="padding-left:8px;padding-right:20px">
     <ul class="list-unstyled">
       <b-media tag="li">
         <template #aside>
@@ -44,6 +45,8 @@
         </p>
       </b-media>
     </ul>
+
+    </div>
     <!-- fine media -->
 
     <!-- news -->

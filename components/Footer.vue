@@ -5,7 +5,7 @@
       <div class="card-body">
         <h5 class="card-title">SCUOLA DI DANZA “GRAZIA PAULON”</h5>
         <p class="card-text">
-           CONTRÀ MANIN, 13 - 36100 VICENZA - TEL. +39 3455712129
+           CONTRÀ MANIN, 13 - 36100 VICENZA - TEL. +39 3455712129 -
 info@scuoladanzagraziapaulon.it - P.IVA: 04267790245
         </p>
         <a href="https://www.instagram.com/scuoladanzagraziapaulon/" style="color: grey">

@@ -11,7 +11,7 @@
     <br />
     <br />
 
-    <div >
+   <div id="testo" style="padding:20px">
      <!--  <h5 class="mt-0">LA SCUOLA CONTINUA...</h5> -->
       <p>
         La scuola nonostante la pandemia con la collaborazione delle allieve e dei loro genitori ha proseguito le lezioni on-line!

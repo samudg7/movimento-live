@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <h4>SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
+      <h4 style="padding:20px">SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
       <b-card-group deck>
         <b-card
           img-src="@/static\images\silviaeGrazia.jpg"

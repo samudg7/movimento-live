@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div id="testo" style="padding:20px">
-    <h5 class="mt-0 mb-1">Grazia Paulon</h5>
-    <h6 class="mt-0 mb-1">60 ANNI DI CARRIERA</h6>
+
+    <h5 class="mt-0 mb-1" style="padding-left:20px">Grazia Paulon</h5>
+    <h6 class="mt-0 mb-1" style="padding-left:20px">60 ANNI DI CARRIERA</h6>
 
     <img
       src="@/static\images\grazia.jpg"
@@ -10,7 +10,7 @@
       height="300"
       alt="..."
     />
-
+    <div id="testo" style="padding:20px">
     <p>Grazia Paulon inizia ad insegnare nel 1958.</p>
     <p>
       La passione per la danza le viene trasmessa dalla sua insegnante Edda
@@ -130,10 +130,11 @@
       difficile, è riuscita a far conoscere, apprezzare ed amare a tante allieve
       che la ricordano sempre per la sua precisione e professionalità.
     </p>
+    </div>
  <br />
     <br />
-    <h5 class="mt-0 mb-1">Silvia Zaccaria</h5>
-    <h6 class="mt-0 mb-1">30 ANNI DI CARRIERA</h6>
+    <h5 class="mt-0 mb-1" style="padding-left:20px">Silvia Zaccaria</h5>
+    <h6 class="mt-0 mb-1" style="padding-left:20px">30 ANNI DI CARRIERA</h6>
 
     <img
       src="@/static\images\silvia.jpg"
@@ -141,6 +142,8 @@
       height="300"
       alt="..."
     />
+
+    <div id="testo" style="padding:20px">
 
     <p>
       Silvia Zaccaria all’età di quattro anni inizia a frequentare la scuola di
@@ -326,15 +329,17 @@
     </p>
     <p></p>
 
+    </div>
  <br />
     <br />
-    <h5 class="mt-0 mb-1">Noemi De Grandi</h5>
+    <h5 class="mt-0 mb-1" style="padding-left:20px">Noemi De Grandi</h5>
     <img
       src="@/static\images\teachersnoemi.jpg"
       width="100%"
       height="300"
       alt="..."
     />
+    <div id="testo" style="padding:20px">
 
      <p>
       Dai 4 anni ai 5 anni ginnastica ritmica al Patronato Leone XXIII con l’insegnante Marta Magrin.

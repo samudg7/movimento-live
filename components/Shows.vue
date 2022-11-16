@@ -165,7 +165,7 @@
 
     <br />
     <br />
-    <h5>Aggiornamenti professionali delle insegnanti</h5>
+    <h5 style="padding-left:20px">Aggiornamenti professionali delle insegnanti</h5>
     <!-- inizio lista aggiornamenti-->
 
     <ul class="list-group">

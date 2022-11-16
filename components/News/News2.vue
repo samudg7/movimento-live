@@ -11,8 +11,7 @@
       <br />
       <br />
 
-    <div>
-     <!--  <h5 class="mt-0">ISCRIZIONI APERTE !!!</h5> -->
+<div id="testo" style="padding:20px">     <!--  <h5 class="mt-0">ISCRIZIONI APERTE !!!</h5> -->
       <p>
        Sono aperte le iscrizioni per l’a.a. 2022-2023!!
       </p>
