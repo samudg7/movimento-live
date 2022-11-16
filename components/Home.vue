@@ -64,7 +64,7 @@
             i corsi di danza proseguiranno con Noemi De Grandi (docente diplomata all’Accademia Teatro alla Scala di Milano)
           </p>
           <nuxt-link to="/news/1" class="btn btn-outline-info"
-            >News 1</nuxt-link
+            >News</nuxt-link
           >
         </div>
         <div class="card-footer">
@@ -87,7 +87,7 @@
 Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
           </p>
           <nuxt-link to="/news/2" class="btn btn-outline-info"
-            >News 2</nuxt-link
+            >News</nuxt-link
           >
         </div>
         <div class="card-footer">
@@ -106,7 +106,7 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
             18 settembre 2022: “In ricordo delle Prof.sse Grazia Paulon e Silvia Zaccaria”
           </p>
           <nuxt-link to="/news/3" class="btn btn-outline-info"
-            >News 3</nuxt-link
+            >News</nuxt-link
           >
         </div>
         <div class="card-footer">

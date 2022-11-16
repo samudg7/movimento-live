@@ -9,7 +9,6 @@
 
     <br />
     <br />
-    <br />
 
    <div id="testo" style="padding:20px">
      <!--  <h5 class="mt-0">LA SCUOLA CONTINUA...</h5> -->
