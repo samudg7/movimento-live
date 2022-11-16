@@ -5,8 +5,8 @@
       <div class="card-body">
         <h5 class="card-title">SCUOLA DI DANZA “GRAZIA PAULON”</h5>
         <p class="card-text">
-           CONTRÀ MANIN, 13 - 36100 VICENZA - TEL./FAX 0444 324417
-info@scuoladanzagraziapaulon.it - P.IVA: 00725130249
+           CONTRÀ MANIN, 13 - 36100 VICENZA - TEL. +39 3455712129
+info@scuoladanzagraziapaulon.it - P.IVA: 04267790245
         </p>
         <a href="https://www.instagram.com/scuoladanzagraziapaulon/" style="color: grey">
           <svg
@@ -41,7 +41,7 @@ info@scuoladanzagraziapaulon.it - P.IVA: 00725130249
 </svg>
         </a>
       </div>
-      <div class="card-footer text-muted">2022 - SDG S.r.l.</div>
+      <div class="card-footer text-muted">2022 - samudg1920@gmail.com</div>
     </div>
   </div>
 </template>

@@ -329,8 +329,6 @@
  <br />
     <br />
     <h5 class="mt-0 mb-1">Noemi De Grandi</h5>
-        <h6 class="mt-0 mb-1">Media object</h6>
-
     <img
       src="@/static\images\teachersnoemi.jpg"
       width="100%"

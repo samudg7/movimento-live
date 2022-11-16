@@ -6,15 +6,17 @@
       class="carousel slide"
       data-ride="carousel"
     >
+
       <div class="carousel-inner">
-        <div class="carousel-item active" data-interval="4000">
+<!--         <div class="carousel-item active" data-interval="2000">
+ -->         <div class="carousel-item active">
           <img
             src="@/static\images\tutteNoi.jpg"
             class="d-block w-100"
             alt="..."
           />
         </div>
-        <div class="carousel-item" data-interval="2000">
+        <div class="carousel-item">
           <img
             src="@/static\images\primaveraVivaldi.jpg"
             class="d-block w-100"
@@ -202,13 +204,13 @@
         2017 Lezioni con GILDA GELATI (30 marzo e 21 novembre)
       </li>
       <li class="list-group-item">
-        2018 LEZIONI con GILDA Gelati ( 23 novembre)
+        2018 LEZIONI con GILDA Gelati (23 novembre)
       </li>
       <li class="list-group-item">
-        2019 LEZIONI con GILDA GELATI. ( 21/11/19)
+        2019 LEZIONI con GILDA GELATI (21/11/19)
       </li>
        <li class="list-group-item">
-        2022 LEZIONI con GILDA GELATI. ( 26/05/22)
+        2022 LEZIONI con GILDA GELATI (26/05/22)
       </li>
     </ul>
     <!-- inizio lista aggiornamenti-->

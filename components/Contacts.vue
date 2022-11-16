@@ -31,7 +31,7 @@
         <p class="card-text">Scuola di danza “Grazia Paulon”</p>
         <p class="card-text">Contrà Manin, 13</p>
         <p class="card-text">36100 Vicenza</p>
-        <p class="card-text">Tel./Fax 0444 324417</p>
+        <p class="card-text">Tel. +39 3455712129</p>
         <p class="card-text">info@scuoladanzagraziapaulon.it</p>
         <p class="card-text">www.scuoladanzagraziapaulon.it</p>
       </div>

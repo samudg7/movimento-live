@@ -63,7 +63,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\mountain1.jpg"
+            src="@/static\images\attestato.jpg"
             class="card-img-top"
             alt="..."
           />

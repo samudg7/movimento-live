@@ -1,6 +1,8 @@
 <template>
   <!-- media -->
   <div>
+    <br />
+    <br />
     <ul class="list-unstyled">
       <b-media tag="li">
         <template #aside>
@@ -21,8 +23,8 @@
           <b-img blank blank-color="#cba" width="64" alt="placeholder"></b-img>
         </template>
 
-        <h5 class="mt-0 mb-1"> “Non vorrei che restasse solo un museo ma che da quelle sale nelle quali si respira danza continuasse
-         a venire la musica che ascolto da tutta la vita, come era desiderio sia di mia mamma che di Silvia”.</h5>
+        <h6 class="mt-0 mb-1"> “Non vorrei che restasse solo un museo ma che da quelle sale nelle quali si respira danza continuasse
+         a venire la musica che ascolto da tutta la vita, come era desiderio sia di mia mamma che di Silvia”.</h6>
         <p class="mb-0">
 
         </p>
@@ -37,7 +39,7 @@
         <p class="mb-0">
          Con queste parole di Michele, vi annunciamo che dal 1° settembre dalle ore 16:00 alle 18:00 sono aperte
          le iscrizioni ai corsi per l’anno accademico 2022/2023, che proseguirà con l'insegnante Noemi De Grandi,
-         diplomata all'Accdemia Teatro alla Scala di Milano, già allieva delle maestre Grazie e Silvia,
+         diplomata all'Accdemia Teatro alla Scala di Milano, già allieva delle maestre Grazia e Silvia,
          e con la supervisione della ex prima ballerina della Scala - nonché grande amica e collega di Silvia - Gilda Gelati.
         </p>
       </b-media>
@@ -63,7 +65,7 @@
           >
         </div>
         <div class="card-footer">
-          <small class="text-muted">Last updated, 06-03-2022</small>
+          <small class="text-muted">Ultimo aggiornamento, 06-11-2022</small>
         </div>
       </div>
       <div class="card">
@@ -86,7 +88,7 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
           >
         </div>
         <div class="card-footer">
-          <small class="text-muted">Last updated, 12-03-2022</small>
+          <small class="text-muted">Ultimo aggiornamento, 12-11-2022</small>
         </div>
       </div>
       <div class="card">
@@ -105,7 +107,7 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
           >
         </div>
         <div class="card-footer">
-          <small class="text-muted">Last updated, 06-03-2022</small>
+          <small class="text-muted">Ultimo aggiornamento, 06-11-2022</small>
         </div>
       </div>
     </div>
