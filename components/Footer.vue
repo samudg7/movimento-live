@@ -41,7 +41,7 @@ info@scuoladanzagraziapaulon.it - P.IVA: 04267790245
 </svg>
         </a>
       </div>
-      <div class="card-footer text-muted">2025 - All rights reserverd scuoladanzagraziapaulon</div>
+      <div class="card-footer text-muted">©2025 scuoladanzagraziapaulon All Right Reserved.</div>
     </div>
   </div>
 </template>

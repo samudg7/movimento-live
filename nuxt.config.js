@@ -40,11 +40,12 @@ export default {
 
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css' },
       { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css' },
       { rel: 'stylesheet', href: '@/static/css/mobile-first.css' },
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/images/logo.jpg' },
+      { rel: 'icon', type: 'image/png', href: '/images/logo.jpg', sizes: '32x32' },
+      { rel: 'apple-touch-icon', href: '/images/logo.jpg' }, // For iOS devices
       { rel: 'canonical', href: 'https://samudg7.github.io/movimento-live/' } // Canonical URL to avoid duplicate content issues
 
     ],
