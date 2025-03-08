@@ -53,8 +53,8 @@
     <div class="card-deck">
       <div class="card">
         <img
-          src="@/static\images\attitude.jpg"
-          class="card-img-top"
+          src="@/static/images/attitude.jpg"
+          class="card-img-top responsive-img"
           alt="..."
         />
         <div class="card-body">
@@ -73,8 +73,8 @@
       </div>
       <div class="card">
         <img
-          src="@/static\images\iscrizioni.jpg"
-          class="card-img-top"
+          src="@/static/images/iscrizioni.jpg"
+          class="card-img-top responsive-img"
           alt="..."
         />
         <div class="card-body">
@@ -96,8 +96,8 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
       </div>
       <div class="card">
         <img
-          src="@/static\images\tutteNoi.jpg"
-          class="card-img-top"
+          src="@/static/images/tutteNoi.jpg"
+          class="card-img-top responsive-img"
           alt="..."
         />
         <div class="card-body">
@@ -139,3 +139,32 @@ Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
 
   </div>
 </template>
+
+<style scoped>
+.responsive-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 600px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 1201px) {
+  .responsive-img {
+    width: 50%;
+  }
+}
+</style>

@@ -5,9 +5,8 @@
     <h6 class="mt-0 mb-1" style="padding-left:20px">60 ANNI DI CARRIERA</h6>
 
     <img
-      src="@/static\images\grazia.jpg"
-      width="100%"
-      height="300"
+      src="@/static/images/grazia.jpg"
+      class="responsive-img"
       alt="..."
     />
     <div id="testo" style="padding:20px">
@@ -137,9 +136,8 @@
     <h6 class="mt-0 mb-1" style="padding-left:20px">30 ANNI DI CARRIERA</h6>
 
     <img
-      src="@/static\images\silvia.jpg"
-      width="100%"
-      height="300"
+      src="@/static/images/silvia.jpg"
+      class="responsive-img"
       alt="..."
     />
 
@@ -334,9 +332,8 @@
     <br />
     <h5 class="mt-0 mb-1" style="padding-left:20px">Noemi De Grandi</h5>
     <img
-      src="@/static\images\teachersnoemi.jpg"
-      width="100%"
-      height="300"
+      src="@/static/images/teachersnoemi.jpg"
+      class="responsive-img"
       alt="..."
     />
     <div id="testo" style="padding:20px">
@@ -365,7 +362,7 @@ L’11 giugno diploma presso l’accademia Teatro alla Scala di Milano per il Bi
      <p>
 Il 17 Maggio 2020 Idoneità all’insegnamento del programma e della metodologia del 4°-5° anno della Scuola di Ballo dell’Accademia del Teatro alla Scala di Milano.
  </p>
-     <p>
+
 <br>
 <p>
 SEGUE STAGE E AUDIZIONI DURANTE L’ANNO
@@ -458,3 +455,32 @@ Dal 2021-22: Direttrice ed insegnante della Scuola di danza Grazia Paulon
     </div>
   </div>
 </template>
+
+<style scoped>
+.responsive-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 600px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 1201px) {
+  .responsive-img {
+    width: 20%;
+  }
+}
+</style>

@@ -8,53 +8,52 @@
     >
 
       <div class="carousel-inner">
-<!--         <div class="carousel-item active" data-interval="2000">
- -->         <div class="carousel-item active">
+        <div class="carousel-item active">
           <img
             src="@/static\images\tutteNoi.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
             src="@/static\images\primaveraVivaldi.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
             src="@/static\images\arabesqueGigli.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
             src="@/static\images\spettacoli3.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
             src="@/static\images\spettacoli4.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
             src="@/static\images\kitry.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
          <div class="carousel-item">
           <img
             src="@/static\images\top.jpg"
-            class="d-block w-100"
+            class="d-block w-100 responsive-img"
             alt="..."
           />
         </div>
@@ -217,3 +216,32 @@
     <br /><br />
   </div>
 </template>
+
+<style scoped>
+.responsive-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 600px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+  .responsive-img {
+    height: auto;
+  }
+}
+
+@media (min-width: 1201px) {
+  .responsive-img {
+    width: 50%;
+  }
+}
+</style>

@@ -1,10 +1,10 @@
 <template>
   <div>
     <div>
-      <h4 style="padding:20px">SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
+      <h4 class="py-4">SESSANT'ANNI DI ESPERIENZA E PROFESSIONALITÀ</h4>
       <b-card-group deck>
         <b-card
-          img-src="@/static\images\silviaeGrazia.jpg"
+          img-src="@/static/images/silviaeGrazia.jpg"
           img-alt="Card image"
           img-top
         >
@@ -19,7 +19,7 @@
         </b-card>
 
         <b-card
-          img-src="@/static\images\graziaesilvia.jpg"
+          img-src="@/static/images/graziaesilvia.jpg"
           img-alt="Card image"
           img-bottom
         >
@@ -39,7 +39,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\metodoVaganova.jpg"
+            src="@/static/images/metodoVaganova.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -63,7 +63,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\attestato.jpg"
+            src="@/static/images/attestato.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -81,7 +81,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\sviluppoPosturale.jpg"
+            src="@/static/images/sviluppoPosturale.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -99,7 +99,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\cosmina.jpg"
+            src="@/static/images/cosmina.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -115,7 +115,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\gigli.jpg"
+            src="@/static/images/gigli.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -134,7 +134,7 @@
       <div class="col mb-4">
         <div class="card">
           <img
-            src="@/static\images\conGilda.jpg"
+            src="@/static/images/conGilda.jpg"
             class="card-img-top"
             alt="..."
           />
@@ -150,56 +150,17 @@
           </div>
         </div>
       </div>
-    <!--   <div class="col mb-4">
-        <div class="card">
-          <img
-            src="@/static\images\mountain1.jpg"
-            class="card-img-top"
-            alt="..."
-          />
-          <div class="card-body">
-            <h5 class="card-title">Riconoscimenti</h5>
-            <p class="card-text">
-              Vari sono i premi e i riconoscimenti ricevuti dalla scuola di
-              danza “Grazia Paulon” e numerose sono le allieve entrate nelle
-              varie scuole di ballo e teatri professionali sia nazionali che
-              esteri.
-            </p>
-          </div>
-        </div>
-      </div> -->
-    <!--   <div class="col mb-4">
-        <div class="card">
-          <img
-            src="@/static\images\mountain1.jpg"
-            class="card-img-top"
-            alt="..."
-          />
-          <div class="card-body">
-            <h5 class="card-title">Coreografia</h5>
-            <p class="card-text">
-              Il fratello prof. Giorgio Paulon, noto pittore di icone, ha curato
-              in vari precedenti saggi della scuola varie scenografie per i
-              balletti, molto apprezzate e applaudite.
-            </p>
-          </div>
-        </div>
-      </div> -->
     </div>
     <!-- fine grid card -->
-
-    <!-- quote -->
-    <!-- <div class="card">
-      <div class="card-header">Quote</div>
-      <div class="card-body">
-        <blockquote class="blockquote mb-0">
-          <p>A well-known quote, contained in a blockquote element.</p>
-          <footer class="blockquote-footer">
-            Someone famous in <cite title="Source Title">Source Title</cite>
-          </footer>
-        </blockquote>
-      </div>
-    </div> -->
-    <!-- fine quote -->
   </div>
 </template>
+
+<script>
+export default {
+  name: 'Storia'
+}
+</script>
+
+<style scoped>
+/* Add any additional styles if needed */
+</style>

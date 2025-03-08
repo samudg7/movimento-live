@@ -1,11 +1,11 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  target:'static',
-   /* server: {
+  target: 'static',
+  server: {
     port: 3000, // default: 3000
-    host: '0.0.0.0', // default: localhost,
+    host: '0.0.0.0', // default: localhost
     timing: false
-  }, */
+  },
   router: {
     base: '/movimento-live/'
   },
@@ -23,8 +23,9 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {rel: 'stylesheet',
-       href:"https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" }
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css' },
+      { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: '@/static/css/mobile-first.css' }
     ],
      script:[
        {
@@ -46,6 +47,7 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/static/css/main.css',
+    '@/static/css/mobile-first.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
