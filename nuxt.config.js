@@ -1,31 +1,52 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
-  server: {
+/*   server: {
     port: 3000, // default: 3000
     host: '0.0.0.0', // default: localhost
     timing: false
-  },
+  }, */
   router: {
     base: '/movimento-live/'
   },
 
   head: {
-    title: 'movimento-live',
+    title: 'Scuola Danza Grazia Paulon',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'it'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { hid: 'description', name: 'description', content: 'Scopri Scuola Danza Grazia Paulon, la migliore scuola di danza in Italia. Corsi di ballo per tutti i livelli, eventi e spettacoli imperdibili!' },
+      { name: 'keywords', content: 'scuola di danza, danza Italia, corsi di ballo, danza classica, danza moderna, pilates, pilates reformer, eventi di danza, spettacoli di ballo' },
+      { name: 'author', content: 'samdeg' },
+      { name: 'robots', content: 'index, follow' }, // Allow search engines to index
+
+      { property: 'og:type', content: 'website' },
+      { property: 'og:title', content: 'Scuola Danza Grazia Paulon' },
+      { property: 'og:description', content: 'Unisciti alla nostra scuola di danza e vivi la passione per il ballo con i migliori insegnanti in Italia.' },
+      { property: 'og:image', content: '' }, // Replace with your real image URL
+      { property: 'og:url', content: 'https://samudg7.github.io/movimento-live/' },
+      { property: 'og:site_name', content: 'Scuola Danza Grazia Paulon' },
+
+
+      // Twitter Card (for better preview on Twitter)
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:title', content: 'Scuola Danza Grazia Paulon' },
+      { name: 'twitter:description', content: 'Scopri Scuola Danza Grazia Paulon, la migliore scuola di danza in Italia con corsi di ballo per tutti i livelli.' },
+      { name: 'twitter:image', content: '' }, // Replace with your real image URL
+      { name: 'twitter:site', content: '' } // Replace with your Twitter handle if available
+
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css' },
       { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css' },
-      { rel: 'stylesheet', href: '@/static/css/mobile-first.css' }
+      { rel: 'stylesheet', href: '@/static/css/mobile-first.css' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'canonical', href: 'https://samudg7.github.io/movimento-live/' } // Canonical URL to avoid duplicate content issues
+
     ],
      script:[
        {
