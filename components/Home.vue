@@ -38,8 +38,8 @@
 
         <h5 class="mt-0 mb-1">La storia continua</h5>
         <p class="mb-0">
-         Con queste parole di Michele, vi annunciamo che dal 1° settembre dalle ore 16:00 alle 18:00 sono aperte
-         le iscrizioni ai corsi per l’anno accademico 2022/2023, che proseguirà con l'insegnante Noemi De Grandi,
+         Con queste parole di Michele, vi annunciamo che sono aperte
+         le iscrizioni ai corsi per l’anno accademico 2025/2026, che proseguirà con l'insegnante Noemi De Grandi,
          diplomata all'Accdemia Teatro alla Scala di Milano, già allieva delle maestre Grazia e Silvia,
          e con la supervisione della ex prima ballerina della Scala - nonché grande amica e collega di Silvia - Gilda Gelati.
         </p>
@@ -80,18 +80,18 @@
         <div class="card-body">
           <h5 class="card-title">ISCRIZIONI APERTE !!!</h5>
           <p class="card-text">
-           L’ANNO ACCADEMICO 2022/23 inizierà dal 1 settembre.
+           L’ANNO ACCADEMICO 2025/26 inizierà dal 1 settembre.
             Vi aspettiamo!
           </p>
           <p>
-Si riceve solo su appuntamento telefonando dalle 16 alle 18 !
+Si riceve solo su appuntamento telefonando dalle 09 alle 19!
           </p>
           <nuxt-link to="/news/2" class="btn btn-outline-info"
             >News</nuxt-link
           >
         </div>
         <div class="card-footer">
-          <small class="text-muted">Ultimo aggiornamento, 12-11-2022</small>
+          <small class="text-muted">Ultimo aggiornamento, 09-03-2025</small>
         </div>
       </div>
       <div class="card">
